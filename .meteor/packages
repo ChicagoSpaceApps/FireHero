@@ -30,7 +30,7 @@ jcbernack:reactive-aggregate
 clinical:csv
 meteortoys:allthings
 ultimatejs:tracker-react
-accounts-password@1.5.1
+accounts-password
 accounts-ui@1.3.0
 std:accounts-ui
 alanning:roles
